@@ -1,21 +1,28 @@
-<!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=140&section=header&text=Jay%20Naik&fontSize=52&fontColor=ffffff&fontAlignY=65&desc=Full-Stack%20Developer%20%7C%20IoT%20Enthusiast%20%7C%20CS%20Student&descSize=16&descAlignY=85&descColor=aaaaaa" />
+<!-- Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=160&section=header&text=Jay%20Naik&fontSize=52&fontColor=ffffff&fontAlignY=60&desc=Full-Stack%20Developer%20%7C%20IoT%20Enthusiast%20%7C%20CS%20Student&descSize=16&descAlignY=80&descColor=aaaaaa" />
 
-<!-- Typing SVG -->
+<!-- Open to Work -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+things+that+actually+ship.;React+%7C+Next.js+%7C+TypeScript+%7C+Python;IoT+with+ESP32+%2B+MQTT;3D+Web+with+Three.js+%26+WebGL;Open+to+internship+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Internship%20%7C%20Part--Time%20%7C%20Freelance-000000?style=for-the-badge&labelColor=238636&color=238636" />
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Building+things+that+actually+ship.;React+%7C+Next.js+%7C+TypeScript+%7C+Python;IoT+with+ESP32+%2B+MQTT;3D+Web+with+Three.js+%26+WebGL;GDG+Web+Dev+Lead+%40+NMIMS;Open+to+internship+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- Social badges -->
 <p align="center">
   <a href="https://jaynaik.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-jaynaik.tech-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-jaynaik.tech-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/jay-naik-68a00231a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jay%20Naik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:naikjay208@gmail.com">
-    <img src="https://img.shields.io/badge/Email-naikjay208@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📬%20Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -25,7 +32,7 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 ```ts
 const jay = {
@@ -42,7 +49,34 @@ const jay = {
 
 ---
 
-## Tech Stack
+## ⚡ Fun Stats
+
+<p align="center">
+  <table border="0" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🚀%20Projects%20Built-20+-000000?style=for-the-badge&labelColor=1a1a2e" /><br/>
+        <sub>and counting</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🎤%20Events%20Led-2%20@%20500+%20visitors-000000?style=for-the-badge&labelColor=1a1a2e" /><br/>
+        <sub>as sole dev</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/👥%20Team%20Led-10%20devs%20@%20GDG-000000?style=for-the-badge&labelColor=1a1a2e" /><br/>
+        <sub>on campus</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/☕%20Chai%20Consumed-∞%20cups-000000?style=for-the-badge&labelColor=1a1a2e" /><br/>
+        <sub>per deadline</sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -60,6 +94,8 @@ const jay = {
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Backend & Database**
 
@@ -68,12 +104,15 @@ const jay = {
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 **IoT & Hardware**
 
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![Blynk](https://img.shields.io/badge/Blynk-23C48E?style=flat-square&logo=blynk&logoColor=white)
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-00BFFF?style=flat-square)
+![Wokwi](https://img.shields.io/badge/Wokwi-FF4500?style=flat-square)
 
 **Tools**
 
@@ -85,41 +124,119 @@ const jay = {
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jay-Naik2526&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=0d1117&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Naik2526&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jay-Naik2526&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa&bg_color=0d1117&count_private=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Naik2526&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jay-Naik2526&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jay-Naik2526&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jay-Naik2526&bg_color=0d1117&color=aaaaaa&line=ffffff&point=ffffff&area=true&area_color=1a1a2e&hide_border=true&custom_title=Contribution%20Activity" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jay-Naik2526&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
+</p>
+
+<!-- Snake animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jay-Naik2526/Jay-Naik2526/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jay-Naik2526/Jay-Naik2526/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jay-Naik2526/Jay-Naik2526/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-| Project | Stack | What it does |
-|---|---|---|
-| 🔥 [FireGuard](https://github.com/Jay-Naik2526/fire-evacuation-system) | Python · Flask · ESP32 · MQTT | Smart fire evacuation system with Dijkstra pathfinding & real-time IoT alerts |
-| 🎬 [Skyflix](https://github.com/Jay-Naik2526/skyflix) | TypeScript · Next.js · TMDB | Movie discovery app with SSR, search & genre filtering |
-| 🎓 [StudySync](https://github.com/Jay-Naik2526/studysync) | React · Node.js · JS | Attendance & marks tracker used by 20+ classmates |
-| 🎉 [Ambiora Techfest](https://github.com/Jay-Naik2526/ambiora-techfest) | React · JS · Vercel | Official college techfest platform — 500+ live visitors |
-| 🏋️ [W8 Fitness](https://github.com/Jay-Naik2526/W8-fitness) | TypeScript · Next.js | Gym management platform with client/admin/trainer portals |
-| 🌐 [3D Portfolio](https://github.com/Jay-Naik2526/3d-portfolio) | Three.js · WebGL · JS | Interactive 3D portfolio with custom WebGL animations |
+<p align="center">
+  <a href="https://github.com/Jay-Naik2526/fire-evacuation-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Naik2526&repo=fire-evacuation-system&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa" />
+  </a>
+  <a href="https://github.com/Jay-Naik2526/skyflix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Naik2526&repo=skyflix&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Jay-Naik2526/ambiora-techfest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Naik2526&repo=ambiora-techfest&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa" />
+  </a>
+  <a href="https://github.com/Jay-Naik2526/studysync">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Naik2526&repo=studysync&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Jay-Naik2526/W8-fitness">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Naik2526&repo=W8-fitness&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa" />
+  </a>
+  <a href="https://github.com/Jay-Naik2526/3d-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Naik2526&repo=3d-portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa" />
+  </a>
+</p>
 
 ---
 
-## Achievements
+## 🏆 Achievements & Certifications
 
-- 🥇 **Top 10** — GDG On Campus Hackathon (30+ teams)
-- 🎤 **Technical Lead** — Ambiora Techfest & Flavium Sports Event (500+ visitors each)
-- 👥 **Web Dev Lead** — Google Developer Groups on Campus (10-member team)
-- 🎓 **Python for Everybody** — 5-course Professional Certificate, Coursera / UMich
-- 💾 Built a portable offline AI coding environment (llama.cpp + Qwen3-8B on USB)
+<p align="center">
+
+| | |
+|---|---|
+| 🥇 | Top 10 — GDG On Campus Hackathon (30+ teams) |
+| 🎤 | Technical Lead — Ambiora Techfest & Flavium Sports (500+ visitors each) |
+| 👥 | Web Dev Lead — Google Developer Groups on Campus (10-member team) |
+| 💾 | Built portable offline AI setup (llama.cpp + Qwen3-8B on USB) |
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coursera-Python%20for%20Everybody%20%7C%205%20Courses-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/University%20of%20Michigan-Professional%20Certificate-00274C?style=for-the-badge" />
+</p>
 
 ---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://jaynaik.tech" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logoColor=white" height="36"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jay-naik-68a00231a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Jay-Naik2526" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:naikjay208@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Open to internships, collabs, and interesting builds. Drop a message anytime.</i>
+</p>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" />
