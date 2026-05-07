@@ -156,31 +156,91 @@ const jay = {
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Jay-Naik2526/fire-evacuation-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Naik2526&repo=fire-evacuation-system&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa" />
-  </a>
-  <a href="https://github.com/Jay-Naik2526/skyflix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Naik2526&repo=skyflix&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Jay-Naik2526/ambiora-techfest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Naik2526&repo=ambiora-techfest&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa" />
-  </a>
-  <a href="https://github.com/Jay-Naik2526/studysync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Naik2526&repo=studysync&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Jay-Naik2526/W8-fitness">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Naik2526&repo=W8-fitness&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa" />
-  </a>
-  <a href="https://github.com/Jay-Naik2526/3d-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jay-Naik2526&repo=3d-portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=aaaaaa" />
-  </a>
-</p>
-
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔥 FireGuard</h3>
+      <p><b>Smart Fire Evacuation System</b></p>
+      <p>IoT evacuation system with ESP32 sensors, Dijkstra pathfinding, real-time MQTT alerts & WebSocket dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Jay-Naik2526/fire-evacuation-system">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🎬 Skyflix</h3>
+      <p><b>Movie Discovery Platform</b></p>
+      <p>Full-stack movie app with TMDB API, search & genre filtering. Built with Next.js SSR and TypeScript.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Jay-Naik2526/skyflix">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎉 Ambiora Techfest</h3>
+      <p><b>Official College Event Platform</b></p>
+      <p>Sole developer. Handled 500+ live visitors, event registrations, schedules & sponsors. Zero downtime.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Jay-Naik2526/ambiora-techfest">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🎓 StudySync</h3>
+      <p><b>Attendance & Marks Tracker</b></p>
+      <p>Used by 20+ classmates. Tracks subject-wise attendance with real-time shortage warnings & grade projections.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <a href="https://github.com/Jay-Naik2526/studysync">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🏋️ W8 Fitness</h3>
+      <p><b>Gym Management Platform</b></p>
+      <p>Full gym management system with separate client, admin & trainer portals. Built with TypeScript & Next.js.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Jay-Naik2526/W8-fitness">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🌐 3D Portfolio</h3>
+      <p><b>Interactive 3D Website</b></p>
+      <p>Custom WebGL animations, dynamic lighting & camera controls built entirely with Three.js.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Jay-Naik2526/3d-portfolio">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🏆 Achievements & Certifications
