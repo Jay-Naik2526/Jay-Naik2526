@@ -36,7 +36,7 @@
 
 ```ts
 const jay = {
-  location:    "Mumbai, India 🇮🇳",
+  location:    "Navsari, India 🇮🇳",
   education:   "B.Tech CSE @ NMIMS MPSTME Shirpur (2024–2028)",
   cgpa:        "8.5 / 10",
   role:        "Web Dev Lead @ GDG on Campus",
