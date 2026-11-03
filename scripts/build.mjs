@@ -74,7 +74,7 @@ function header() {
   <g filter="url(#glow)">
     <text x="64" y="206" font-family="${SANS}" font-size="132" font-weight="200" letter-spacing="-5" fill="#e2f8fc">JAY NAIK</text>
   </g>
-  <text x="68" y="254" font-family="${MONO}" font-size="16" letter-spacing="5.5" fill="${GLOW}">CODING CLUB PRESIDENT  ·  FULL-STACK  ·  IOT  ·  3D WEB</text>
+  <text x="68" y="254" font-family="${MONO}" font-size="16" letter-spacing="5.5" fill="${GLOW}">CODING CLUB PRESIDENT  ·  FULL-STACK  ·  AMBIORA 2027 VP</text>
   <g font-family="${MONO}" font-size="12" letter-spacing="3.5" fill="rgba(226,248,252,.72)">
     <circle cx="70" cy="62" r="4.5" fill="#2fe38b"><animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.45;1" dur="2s" repeatCount="indefinite"/></circle>
     <text x="86" y="66">SURFACE · 0 M · NAVSARI, INDIA</text>
@@ -89,7 +89,7 @@ function header() {
 
 /* ---------------------------------------------------------------- rotating role line */
 function roles() {
-  const items = ['Coding Club President', 'Full-stack developer', 'IoT builder · ESP32 + MQTT', '3D web · Three.js', 'Hackathon team lead', 'Open to internships']
+  const items = ['Coding Club President', 'Ambiora 2027 Vice President', 'Google Student Ambassador', 'Full-stack developer', '3D web · Three.js', 'Open to internships']
   const N = items.length, dur = N * 2.6
   const slot = (k) => { const a = k / N, b = (k + 1) / N, f = 0.025; return k === 0 ? `0;0;${f};${b - f};${b};1` : `0;${a};${a + f};${b - f};${b};1` }
   const kt = (k) => { const a = k / N, b = (k + 1) / N, f = 0.025; return k === 0 ? `0;0.0001;${f};${(b - f).toFixed(4)};${b.toFixed(4)};1` : `0;${a.toFixed(4)};${(a + f).toFixed(4)};${(b - f).toFixed(4)};${b.toFixed(4)};1` }
@@ -240,14 +240,16 @@ function plankton() {
 
 /* ---------------------------------------------------------------- project cards */
 const projects = [
+  { id: 'deep-dive', depth: '−27 M', tag: 'THIS PORTFOLIO · REACT + WEBGL', title: 'Deep Dive', blurb: 'A portfolio you descend instead of scroll. A water shader, jellyfish and whales in WebGL, and a chat that answers only from the site’s own writing.', stat: '70 tests · phone-tuned · no audio files', chips: ['React 19', 'TypeScript', 'Three.js', 'GLSL'], hue: 200, thumb: 'deepdive', cta: 'LIVE SITE' },
   { id: 'coding-club', depth: '−38 M', tag: 'PRESIDENT · NMIMS MPSTME', title: 'The Coding Club', blurb: 'The club platform I lead. A 3D scroll-driven landing plus an editorial inner site: events, a live in-browser code judge, a real-time leaderboard, CTF and an admin panel.', chips: ['React 19', 'Three.js', 'Express', 'Socket.IO'], hue: 225, thumb: 'codingclub', cta: 'LIVE SITE' },
   { id: 'kupakosh', depth: '−49 M', tag: 'SMART INDIA HACKATHON 2026', title: 'Kupakosh', alt: 'कूपकोश', blurb: 'Others search your PDFs. Kupakosh remembers. Well-memory for Oil India engineers, drawn as each well’s recorded formation column. I led the team.', chips: ['Python', 'Next.js', 'RAG', 'Team lead'], hue: 28, cta: 'REPOSITORY' },
   { id: 'niyamkosh', depth: '−60 M', tag: 'SMART INDIA HACKATHON 2026', title: 'NiyamKosh', alt: 'नियमकोश', blurb: 'Describe what you are buying, get the right Indian Standard. Retrieval that never invents a standard, in 11 Indian languages.', stat: '27,687 standards · 4,917 tenders · 0 invented', chips: ['FastAPI', 'MiniLM + BM25', 'Cross-encoder'], hue: 190, cta: 'REPOSITORY' },
   { id: 'or-studio', depth: '−71 M', tag: 'OPEN SOURCE · WORKS OFFLINE', title: 'OR/Studio', blurb: 'A free in-browser Operations Research workbench and a modern replacement for TORA. Exact fractions, every tableau explained, tutor mode.', stat: '174 tests passing', chips: ['React 19', 'TypeScript', 'Vite 6', 'Tailwind 4'], hue: 78, cta: 'REPOSITORY' },
   { id: 'studysync', depth: '−82 M', tag: 'LIVE · USED BY REAL STUDENTS', title: 'StudySync', blurb: 'Your semester, mapped. SAP attendance automation, a marks hub with a what-if goal calculator, AI study tools and a faculty mentor system.', chips: ['React 19', 'Node.js', 'MongoDB', 'Playwright'], hue: 18, thumb: 'studysync', cta: 'LIVE SITE' },
-  { id: 'ambiora', depth: '−93 M', tag: 'TECHNICAL LEAD · 500+ VISITORS', title: 'Ambiora Techfest', blurb: 'The official techfest site. Sole developer, live for two days, 500+ visitors, zero downtime.', chips: ['React', 'Tailwind', 'Vercel'], hue: 265, thumb: 'ambiora', cta: 'LIVE SITE' },
-  { id: 'fireguard', depth: '−104 M', tag: 'DAIOT', title: 'FireGuard', blurb: 'Smart fire evacuation. ESP32 sensors, Dijkstra pathfinding, real-time MQTT alerts and a WebSocket dashboard.', chips: ['Python', 'Flask', 'ESP32', 'MQTT'], hue: 12, thumb: 'fireguard', cta: 'REPOSITORY' },
-  { id: 'w8', depth: '−115 M', tag: 'REACT + TYPESCRIPT', title: 'W8 Fitness', blurb: 'Gym management with separate client, admin and trainer portals. Three roles, one product.', chips: ['React', 'TypeScript', 'Tailwind'], hue: 150, thumb: 'w8fitness', cta: 'LIVE SITE' },
+  { id: 'ambiora', depth: '−93 M', tag: 'TECHNICAL CONVENOR · 500+ VISITORS', title: 'Ambiora Techfest', blurb: 'The official techfest site, plus technical operations across 8+ events. 500+ visitors over the live event, zero downtime.', chips: ['React', 'Tailwind', 'Vercel'], hue: 265, thumb: 'ambiora', cta: 'LIVE SITE' },
+  { id: 'flavium', depth: '−104 M', tag: 'SPORTS FEST · LIVE BROADCAST', title: 'Flavium Official', blurb: 'The sports festival site, styled as a live broadcast: medal tally, match cards, a branch-versus-branch scoreboard and an admin page to publish scores.', chips: ['React', 'Vite', 'Vercel'], hue: 30, thumb: 'flavium', cta: 'LIVE SITE' },
+  { id: 'fireguard', depth: '−115 M', tag: 'DAIOT', title: 'FireGuard', blurb: 'Smart fire evacuation. ESP32 sensors, Dijkstra pathfinding, real-time MQTT alerts and a WebSocket dashboard.', chips: ['Python', 'Flask', 'ESP32', 'MQTT'], hue: 12, thumb: 'fireguard', cta: 'REPOSITORY' },
+  { id: 'w8', depth: '−126 M', tag: 'REACT + TYPESCRIPT', title: 'W8 Fitness', blurb: 'Gym management with separate client, admin and trainer portals. Three roles, one product.', chips: ['React', 'TypeScript', 'Tailwind'], hue: 150, thumb: 'w8fitness', cta: 'LIVE SITE' },
 ]
 
 function card(p) {
